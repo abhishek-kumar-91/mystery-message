@@ -3,6 +3,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 First, run the development server:
+![homepage](https://github.com/abhishek-kumar-91/mystery-message/assets/111195553/f3ee2492-a01e-48f1-989c-d479e4c98e03)
+![signup](https://github.com/abhishek-kumar-91/mystery-message/assets/111195553/0b79e78b-2c3b-4b4f-af7b-3114a3f337ab)
+![signin](https://github.com/abhishek-kumar-91/mystery-message/assets/111195553/2f1045d9-f2d1-40ec-982c-793a1186002e)
+![user dashboard](https://github.com/abhishek-kumar-91/mystery-message/assets/111195553/01e7abf9-e69a-49fc-a63e-75ab4a413918)
+![public profile](https://github.com/abhishek-kumar-91/mystery-message/assets/111195553/6fbe7842-c521-49f2-87ad-7d18c8f17e2f)
 
 ```bash
 npm run dev
